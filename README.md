@@ -6,6 +6,13 @@
 
 # DBZ Budokai 3 HD Collection
 
+> **This is a fork** of [novapowers0/DBZ-Budokai-3-HD-Collection](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection)
+> (v1.5.1) that adds an experimental **native Direct3D 12 renderer** for the EU/PAL game, selectable
+> in the launcher (Video → Graphics backend → "Native Direct3D 12"), with optional **NVIDIA DLSS**.
+> See [native_gpu/INTEGRATION.md](native_gpu/INTEGRATION.md). Upstream PR:
+> [novapowers0/DBZ-Budokai-3-HD-Collection#44](https://github.com/novapowers0/DBZ-Budokai-3-HD-Collection/pull/44).
+> All credit for the port itself goes to NovaPowers. No game files or recompiled game code are included.
+
 <p align="center">🎬 <b>1.5.0 trailer:</b> <a href="https://youtu.be/zcW-9RK046Q">full video (ES/EN, with install tutorial)</a> · <a href="https://youtube.com/shorts/uqRetUHTBaA">Short</a></p>
 
 **Windows | Linux**
